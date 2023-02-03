@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200;300;400;500;600;700;800;900&display=swap');
+
+body{
+	position: absolute;
+    background-color: black;
+    width:65%;
+   
+	 overflow-x:hidden;
+	font-family: Unbounded;
+	color: #efefef;
+	top:50px;
+	padding-bottom: 200px;
+
+	
+}
+	
+
+#complete {
+	margin-left: 50%;
+}
+
+h3 h2 h4 {
+
+	top:80vh;
+	
+		display: none;
+}
+#titlepic{
+	width: 800px;
+	height: auto;
+	object-fit: cover;
+	margin-left:50%;
+	
+	
+	
+}
+
+img {
+	width: 500px;
+	height: auto;
+
+	
+}
+
+#drehbuch {
+	
+	font-family: courier new;
+	color: #efefef;
+	
+}
+
